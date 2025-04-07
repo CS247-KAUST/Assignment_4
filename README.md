@@ -1,5 +1,4 @@
 # Assignment 4 Description (14% of total grade) #
-**Due: April 2nd and 9th**
 
 The task for this assignment is the implementation of Volume Raycasting.
 
